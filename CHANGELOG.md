@@ -7,3 +7,8 @@
 
 ### Update
 - docs update
+
+## [1.0.1] - 2024-10-21
+
+### Update
+- docs update

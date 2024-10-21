@@ -1,8 +1,4 @@
-Here’s a simple and effective `README.md` for your **flutter_shared_utils** package:
-
----
-
-# flutter_shared_utils
+# flutte Shared Utils
 
 A collection of utility functions for Flutter applications. The **flutter_shared_utils** package provides commonly used utilities to streamline your app development process and enhance functionality.
 
