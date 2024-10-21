@@ -1,3 +1,4 @@
-## 0.0.1
+## [0.0.1] - 2024-10-21
 
-* TODO: Describe initial release.
+### Added
+- Added shated utils package
