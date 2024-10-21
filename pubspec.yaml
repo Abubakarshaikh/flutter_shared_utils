@@ -1,6 +1,6 @@
 name: flutter_shared_utils
-description: "A Flutter package that provides Utils."
-version: 1.0.0
+description: "A collection of utility functions for Flutter applications. The flutter_shared_utils package provides commonly used utilities to streamline your app development process and enhance functionality."
+version: 1.0.2
 homepage:
 repository: https://github.com/Abubakarshaikh/flutter_shared_utils
 
