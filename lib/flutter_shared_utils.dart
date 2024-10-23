@@ -9,7 +9,7 @@ export 'src/duration_formatter_utils.dart';
 export 'src/encrypt_util.dart';
 export 'src/input_validators_utils.dart';
 export 'src/object_util.dart';
-export 'src/padding_utils.dart';
+export 'src/padding_utils.dart' show PaddingUtils;
 export 'src/phone_number_utils.dart';
 export 'src/radius_utils.dart';
 export 'src/refined_logger.dart';
