@@ -1,5 +1,3 @@
-library flutter_shared_utils.dart;
-
 export 'src/color_scheme_utils.dart';
 export 'src/date_util.dart';
 export 'src/delay.dart';
